@@ -1,6 +1,6 @@
 from setuptools import setup
 
-print('You are on branch `master`')
+print('You are on branch `blah`')
 
 setup(name='git_ref_example',
       version='0.1',
